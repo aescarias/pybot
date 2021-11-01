@@ -1,0 +1,2 @@
+pycordia @ git+https://github.com/angelCarias/pycordia
+python-dotenv
